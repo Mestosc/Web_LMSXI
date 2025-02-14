@@ -18,7 +18,7 @@ con su mamá. Es amigable, dulce y mejor amiga de Kuromi, aunque tengan personal
 FOTO MENU:
 https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_02-MM_400x.png?v=1736898355
 FOTO Tarjeta de visita:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bokksu.com%2Fblogs%2Fnews%2Fall-about-my-melody-japans-sweetheart-from-sanrio&psig=AOvVaw0FVZOc8K6zFBoYeogUit5t&ust=1739612196034000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCA9snuwosDFQAAAAAdAAAAABAK
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bokksu.com%2Fblogs%2Fnews%2Fall-about-my-melody-japans-sweetheart-from-sanrio&psig=AOvVaw0FVZOc8K6zFBoYeogUit5t&ust=1739612196034000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCA9snuwosDFQAAAAAdAAAAABAK](https://cdn.shopify.com/s/files/1/1083/2612/files/melody10_480x480.webp?v=1721113612)
 
 
 Kuromi:

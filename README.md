@@ -60,7 +60,8 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sdpnoticias.com%2Festilo-d
 
 
 Anuncio 1:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fmeme-amino-4%2Fpage%2Fitem%2Fdalas-calvo%2FkbXj_JlsQIGjmreLGVrGLqn7LVMerrnw2&psig=AOvVaw020pjE7uJnWOWDanE-trqv&ust=1739612479953000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPitpNHvwosDFQAAAAAdAAAAABAT
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fmeme-amino-4%2Fpage%2Fitem%2Fdalas-calvo%2FkbXj_JlsQIGjmreLGVrGLqn7LVMerrnw2&psig=AOvVaw020pjE7uJnWOWDanE-trqv&ust=1739612479953000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPitpNHvwosDFQAAAAAdAAAAABAT
+](https://i.ytimg.com/vi/MPSb2qJ53aE/maxresdefault.jpg)
 
 Anuncio 2:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fcatrinah_%2Fmemes-de-gatos-xd%2F&psig=AOvVaw01raHch_LU22WR-ViZfgRT&ust=1739612901926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDVpZrxwosDFQAAAAAdAAAAABAE

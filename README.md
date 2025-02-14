@@ -30,7 +30,9 @@ su actitud ruda, en el fondo es dulce y leal con sus amigos.
 FOTO MENU:
 https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_03-KU_400x.png?v=1736898355
 FOTO Tarjeta de visita:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sdpnoticias.com%2Festilo-de-vida%2Fkuromi-para-vestir-4-plantillas-para-recortar-y-armar-al-personaje-de-sanrio%2F&psig=AOvVaw2p998udqosUgpU3ItwDEF3&ust=1739612118829000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDP76XuwosDFQAAAAAdAAAAABAJ
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sdpnoticias.com%2Festilo-de-vida%2Fkuromi-para-vestir-4-plantillas-para-recortar-y-armar-al-personaje-de-sanrio%2F&psig=AOvVaw2p998udqosUgpU3ItwDEF3&ust=1739612118829000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDP76XuwosDFQAAAAAdAAAAABAJ
+](https://www.sdpnoticias.com/resizer/v2/ONXC2XJH7RAV7NY62ZN66UFGCM.jpg?smart=true&auth=2658c28d8d4805929e11e16e9126e0196fe784fadd58da230615dd921663aac0&width=1200&height=675)
+
 
 Pompompurin:
 Es un adorable perrito golden retriever. Siempre lleva una boina marrón y es 

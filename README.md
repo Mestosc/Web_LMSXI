@@ -43,7 +43,7 @@ Scone y Bagel.
 FOTO MENU:
 https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_09-PN_400x.png?v=1736898355
 FOTO Tarjeta de visita:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.merca20.com%2Fque-es-pompompurin-y-por-que-se-llama-asi-el-amigo-de-hello-kitty%2F&psig=AOvVaw0-diD5QwqAjGyJ2a1PjMlH&ust=1739612021394000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjeivbtwosDFQAAAAAdAAAAABAl
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.merca20.com%2Fque-es-pompompurin-y-por-que-se-llama-asi-el-amigo-de-hello-kitty%2F&psig=AOvVaw0-diD5QwqAjGyJ2a1PjMlH&ust=1739612021394000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjeivbtwosDFQAAAAAdAAAAABAl](https://files.merca20.com/uploads/2024/11/pompompurin-sanrio-personajes.jpg)
 
  
 Cinnamonroll:

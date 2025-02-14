@@ -67,4 +67,4 @@ Anuncio 2:
 [https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fcatrinah_%2Fmemes-de-gatos-xd%2F&psig=AOvVaw01raHch_LU22WR-ViZfgRT&ust=1739612901926000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDVpZrxwosDFQAAAAAdAAAAABAE](https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg)
 
 Anuncio 3:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fguadalupevallejodeanda%2Fgatos-raros%2F&psig=AOvVaw3CS6KGs0teWdtkGGVWRMIx&ust=1739612986965000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLji6cPxwosDFQAAAAAdAAAAABAE
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fguadalupevallejodeanda%2Fgatos-raros%2F&psig=AOvVaw3CS6KGs0teWdtkGGVWRMIx&ust=1739612986965000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLji6cPxwosDFQAAAAAdAAAAABAE](https://i.pinimg.com/474x/22/12/27/221227c7644a84e77a2a91050484e84c.jpg)

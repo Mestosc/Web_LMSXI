@@ -8,7 +8,7 @@ FOTO MENU:
 https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_01-HK_400x.png?v=1736898355
 
 FOTO Tarjeta de visita:
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.patasencasa.com%2Fmx%2Farticulo%2Festa-es-la-verdadera-historia-de-hello-kitty-la-gatita-mas-famosa&psig=AOvVaw0spV84abR8yTaYHxRYzc19&ust=1739612160944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC0gLruwosDFQAAAAAdAAAAABAE
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.patasencasa.com%2Fmx%2Farticulo%2Festa-es-la-verdadera-historia-de-hello-kitty-la-gatita-mas-famosa&psig=AOvVaw0spV84abR8yTaYHxRYzc19&ust=1739612160944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC0gLruwosDFQAAAAAdAAAAABAE](https://www.patasencasa.com/sites/default/files/styles/article_detail_desktop/public/2024-09/hello-kitty-historia_0.jpg.webp?itok=QgreTuiE)
 
 
 My Melody: 

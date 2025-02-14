@@ -1,7 +1,7 @@
 Hello Kitty:
 Es una gatita blanca con un lazo rojo en la oreja izquierda y sin boca,
 lo que permite que las personas proyecten sus propias emociones en ella.
-Su nombre completo es Kitty White, y según su historia, vive en Londres 
+Su nombre completo es Kitty White y al reves es Hola Demonio, y según su historia, vive en Londres 
 con su familia. Es conocida por representar la ternura y la amistad, siendo 
 un ícono de la cultura kawaii en todo el mundo.
 FOTO MENU:

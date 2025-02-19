@@ -1,16 +1,16 @@
 img {
     height: 200px;
 }
-.contenedor {
-    display: flex;
-    flex-direction: column;  /* Organiza la imagen y el texto en columna */
-    align-items: center;  /* Centra el contenido horizontalmente */
-    text-align: center;  /* Asegura que el texto esté centrado */
-    width: fit-content;  /* Ajusta el ancho al contenido */
-    margin: auto;  /* Centra el contenedor en la página */
-}
-.alineado {
-    margin-top: px; /* Ajusta este valor según la imagen */
-    font-size: 18px;
-    font-weight: bold;
-}
+a.contenedor {
+    display: inline-block; /* Para que el ancho se ajuste al contenido */
+    text-align: center;
+  }
+  a.contenedor img {
+    display: block; /* Evita espacios extra debajo de la imagen */
+  }
+  /* El span se comporta como bloque con ancho completo y el texto se alinea a la izquierda */
+  a.contenedor .alineado {
+    display: block;
+    width: 100%;  /* Ocupa el mismo ancho que el contenedor */
+    text-align: center;
+  }

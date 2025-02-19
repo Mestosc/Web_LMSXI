@@ -1,4 +1,4 @@
-Hello Kitty:
+Hello Kitty: ANDREA
 Es una gatita blanca con un lazo rojo en la oreja izquierda y sin boca,
 lo que permite que las personas proyecten sus propias emociones en ella.
 Su nombre completo es Kitty White y al reves es Hola Demonio, y según su historia, vive en Londres 
@@ -11,7 +11,7 @@ FOTO Tarjeta de visita:
 [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.patasencasa.com%2Fmx%2Farticulo%2Festa-es-la-verdadera-historia-de-hello-kitty-la-gatita-mas-famosa&psig=AOvVaw0spV84abR8yTaYHxRYzc19&ust=1739612160944000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC0gLruwosDFQAAAAAdAAAAABAE](https://www.patasencasa.com/sites/default/files/styles/article_detail_desktop/public/2024-09/hello-kitty-historia_0.jpg.webp?itok=QgreTuiE)
 
 
-My Melody: 
+My Melody: ANDREA
 ES un conejito blanco  que siempre lleva un gorro rojo o rosa que cubre sus orejas y representa la
 bondad y la amistad. Vive en el Bosque de los Sueños y le encanta hornear
 con su mamá. Es amigable, dulce y mejor amiga de Kuromi, aunque tengan personalidades opuestas.
@@ -21,7 +21,7 @@ FOTO Tarjeta de visita:
 [https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bokksu.com%2Fblogs%2Fnews%2Fall-about-my-melody-japans-sweetheart-from-sanrio&psig=AOvVaw0FVZOc8K6zFBoYeogUit5t&ust=1739612196034000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCA9snuwosDFQAAAAAdAAAAABAK](https://cdn.shopify.com/s/files/1/1083/2612/files/melody10_480x480.webp?v=1721113612)
 
 
-Kuromi:
+Kuromi: ANDREA
 Es una conejita blanca que lleva un gorro negro con una calavera rosa en la 
 frente y una cola de diablito. Aunque su apariencia es rebelde y traviesa,
 en realidad es alegre, divertida y algo sentimental. Le encanta escribir en
@@ -34,7 +34,7 @@ FOTO Tarjeta de visita:
 ](https://www.sdpnoticias.com/resizer/v2/ONXC2XJH7RAV7NY62ZN66UFGCM.jpg?smart=true&auth=2658c28d8d4805929e11e16e9126e0196fe784fadd58da230615dd921663aac0&width=1200&height=675)
 
 
-Pompompurin:
+Pompompurin: FRA
 Es un adorable perrito golden retriever. Siempre lleva una boina marrón y es 
 conocido por su personalidad relajada y amigable. Su pasatiempo favorito es 
 dormir, comer flanes y coleccionar cosas que encuentra interesantes. Vive en
@@ -46,7 +46,7 @@ FOTO Tarjeta de visita:
 [[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.merca20.com%2Fque-es-pompompurin-y-por-que-se-llama-asi-el-amigo-de-hello-kitty%2F&psig=AOvVaw0-diD5QwqAjGyJ2a1PjMlH&ust=1739612021394000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjeivbtwosDFQAAAAAdAAAAABAl](https://files.merca20.com/uploads/2024/11/pompompurin-sanrio-personajes.jpg)
 ](https://www.sdpnoticias.com/resizer/v2/VN3B5VST2NDMJBDZAWVBZXF4TI.jpg?smart=true&auth=f1286ef9db17b6f08645f5f1ab1db4050e0248d07d3089e60fce5ec91268be1b&width=1200&height=675)
  
-Cinnamonroll:
+Cinnamonroll: FRA
 Un perrito blanco y esponjoso con orejas largas que le permiten volar. Tiene 
 una personalidad amable, dulce y un gran corazón. Vive en una cafetería con sus amigos
 Chiffon, Mocha, Espresso, Milk y Cappuccino. Su pasatiempo favorito es ayudar a los 
@@ -57,6 +57,8 @@ FOTO MENU:
 https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_07-CN_400x.png?v=1736898355
 FOTO Tarjeta de visita:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sdpnoticias.com%2Festilo-de-vida%2Fcinnamoroll-para-vestir-4-plantillas-para-recortar-y-armar-al-amigo-de-hello-kitty%2F&psig=AOvVaw2T4Ys01WxQuq6Waj37nE99&ust=1739612234806000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiart_uwosDFQAAAAAdAAAAABAJ
+
+
 
 
 Anuncio 1:

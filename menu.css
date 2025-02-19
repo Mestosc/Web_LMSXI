@@ -1,0 +1,16 @@
+img {
+    height: 200px;
+}
+.contenedor {
+    display: flex;
+    flex-direction: column;  /* Organiza la imagen y el texto en columna */
+    align-items: center;  /* Centra el contenido horizontalmente */
+    text-align: center;  /* Asegura que el texto esté centrado */
+    width: fit-content;  /* Ajusta el ancho al contenido */
+    margin: auto;  /* Centra el contenedor en la página */
+}
+.alineado {
+    margin-top: px; /* Ajusta este valor según la imagen */
+    font-size: 18px;
+    font-weight: bold;
+}

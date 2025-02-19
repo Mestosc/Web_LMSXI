@@ -1,5 +1,9 @@
+.menu {
+    display: inline;
+}
 img {
     height: 200px;
+    padding: 0;
 }
 a.contenedor {
     display: inline-block; /* Para que el ancho se ajuste al contenido */

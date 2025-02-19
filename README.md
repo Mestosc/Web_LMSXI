@@ -58,8 +58,12 @@ https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_07-CN_400x.png?
 FOTO Tarjeta de visita:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sdpnoticias.com%2Festilo-de-vida%2Fcinnamoroll-para-vestir-4-plantillas-para-recortar-y-armar-al-amigo-de-hello-kitty%2F&psig=AOvVaw2T4Ys01WxQuq6Waj37nE99&ust=1739612234806000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiart_uwosDFQAAAAAdAAAAABAJ
 
-
-
+Pochacco: FRA
+Es un encantador perrito de Sanrio, reconocido por su pelaje blanco, sus grandes orejas negras y su personalidad curiosa y amigable. Nació el 29 de febrero en Fuwafuwa Town y es muy enérgico, siempre explorando y descubriendo cosas nuevas. Le encanta el deporte, especialmente correr, jugar al fútbol y andar en bicicleta. Aunque es un poco torpe a veces, su entusiasmo y espíritu aventurero lo hacen muy querido por sus amigos. Pochacco representa la diversión, la amistad y el deseo de vivir cada día con emoción y alegría.
+FOTO MENU:
+https://www.sanrio.com/cdn/shop/files/ecomm-CHGAL-2025_367x353px_08-PC_400x.png?v=1736898355
+FOTO Tarjeta de visita:
+https://wallpapers.com/images/featured/pochacco-murk8bv5qzb4tu85.jpg
 
 Anuncio 1:
 [https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fmeme-amino-4%2Fpage%2Fitem%2Fdalas-calvo%2FkbXj_JlsQIGjmreLGVrGLqn7LVMerrnw2&psig=AOvVaw020pjE7uJnWOWDanE-trqv&ust=1739612479953000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPitpNHvwosDFQAAAAAdAAAAABAT

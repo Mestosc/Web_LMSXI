@@ -1,8 +1,10 @@
 HelloKitty {
-   margin-right: 100px;
+   background-image: url('fondo-rosa-acuarela.avif');
+   background-color: aqua; /**prueba*/
 }
 
 foto {
+    box-shadow: 2px, white; /**para ponerle borde*/
     display: flex;
     justify-content: center;
     height: 400px;

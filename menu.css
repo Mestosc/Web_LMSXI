@@ -41,14 +41,6 @@
   color: red;
   font-size: 30px;
 }
-.anuncio {
-  writing-mode: vertical-rl;
-    text-orientation: upright;
-    font-size: 20px;
-    font-weight: bold;
-    margin-right: 100px; /* Espaciado entre el texto y las imágenes */
-    margin-left: 100px;
-}
 .enlace_anuncio {
     cursor: pointer;
     user-select: none;

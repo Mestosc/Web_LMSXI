@@ -1,7 +1,7 @@
-HelloKitty {
+fondo {
    background-image: url('fondo-rosa-acuarela.avif');
-   background-color: aqua; /**prueba*/
 }
+
 
 foto {
     box-shadow: 2px, white; /**para ponerle borde*/

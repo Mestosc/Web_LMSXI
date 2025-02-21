@@ -1,5 +1,13 @@
-* {
-  background-image: url('https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg');
+body {
+  display: flex;
+  justify-content: center;
+  background: url('https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg')
+              no-repeat center center fixed;
+  /*background-image: url('https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg');*/
+  background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
+}
+.alinear {
+  
 }
 .englobador {
   display: flex;

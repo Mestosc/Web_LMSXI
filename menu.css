@@ -1,3 +1,6 @@
+* {
+  background-image: url('https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg');
+}
 .englobador {
   display: flex;
   align-items: center;
@@ -27,6 +30,7 @@
   background-size: cover; /* Ajusta la imagen para que cubra todo */
   background-position: center; /* Centra la imagen */
   padding: 10px;
+  
 }
 .esquina_derecha {
   margin-top: 0;

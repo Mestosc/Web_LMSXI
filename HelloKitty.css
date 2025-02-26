@@ -1,0 +1,28 @@
+fondo {
+   background-image: url('Imagenes Sanrio/fondo.jpg');
+}
+
+
+foto {
+    box-shadow: 2px, white; /**para ponerle borde*/
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
+nombre {
+    font-size: 25px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+
+descripcion {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    padding-right: 350px;
+    padding-left: 350px;
+    
+}

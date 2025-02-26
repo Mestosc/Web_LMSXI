@@ -16,11 +16,9 @@ body {
 }
 .englobador {
   display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  gap: 20px; /* Espaciado entre el texto y el contenido */
-  margin-left: auto;
-  margin-right: auto;
+  justify-content: center; /* Centra el contenido horizontalmente */
+  align-items: center; /* Centra el contenido verticalmente */
+  gap: 20px; /* Espaciado entre los elementos dentro del contenedor */
 }
 .englobe_anuncio1 {
   padding-left: 3px;

@@ -5,7 +5,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: url('https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg')
+  background: url('Imagenes Sanrio/kalpli-duvar-kagidi-d080dfd8.jpg')
               no-repeat center center fixed;
   /*background-image: url('https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg');*/
   background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
@@ -23,12 +23,13 @@ body {
   gap: 20px; /* Espaciado entre el texto y el contenido */
 }
 .englobe_anuncio1 {
+  padding-left: 0;
   position: relative; /* Contenedor relativo para que los elementos internos se posicionen en base a él */
     display: flex;
     align-items: center;
     justify-content: center;
     width: 200px; /* Ajusta según necesites */
-    height: 300px; /* Ajusta según necesites */
+    height: 500px; /* Ajusta según necesites */
     background-image: url('https://i.ytimg.com/vi/MPSb2qJ53aE/maxresdefault.jpg'); /* Reemplaza con la URL de la imagen de fondo */
     background-size: cover; /* Ajusta la imagen para que cubra todo */
     background-position: center; /* Centra la imagen */
@@ -40,7 +41,7 @@ body {
   align-items: center;
   justify-content: center;
   width: 200px; /* Ajusta según necesites */
-  height: 300px; /* Ajusta según necesites */
+  height: 500px; /* Ajusta según necesites */
   background-image: url('https://i.pinimg.com/236x/05/49/86/05498664d54894f92c6523c50c1eb9e6.jpg'); /* Reemplaza con la URL de la imagen de fondo */
   background-size: cover; /* Ajusta la imagen para que cubra todo */
   background-position: center; /* Centra la imagen */

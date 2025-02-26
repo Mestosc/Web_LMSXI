@@ -20,7 +20,13 @@ body {
   align-items: center; /* Centra el contenido verticalmente */
   gap: 20px; /* Espaciado entre los elementos dentro del contenedor */
 }
+.esquina_derecha {
+  padding-top: 0;
+  margin-top: 0;
+}
 .englobe_anuncio1 {
+  padding-top: 0;
+  margin-top: 0;
   padding-left: 3px;
   position: relative; /* Contenedor relativo para que los elementos internos se posicionen en base a él */
     display: flex;

@@ -78,4 +78,4 @@ Anuncio 3:
 
 
 FONDO DE PANTALLA:
-https://img.freepik.com/fotos-premium/fondo-rosa-acuarela-abstracta_3590-11.jpg
+https://marketplace.canva.com/EAF5fUZ-IxI/1/0/400w/canva-rosa-y-rojo-poderoso-femme-personal-patr%C3%B3n-d%C3%ADa-del-amor-y-la-amistad-fondo-de-pantalla-de-escritorio-Dgo3idCP4pI.jpg

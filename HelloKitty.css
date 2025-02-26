@@ -1,5 +1,15 @@
-fondo {
-   background-image: url('Imagenes Sanrio/fondo.jpg');
+HelloKitty {
+    align-items: center;
+    display: flex;
+}
+
+
+
+.fondo {
+   background-image: url('Imagenes\ Sanrio/fondo.jpg');   
+   height: 100vh;
+   width: 100vw;
+
 }
 
 

@@ -1,6 +1,7 @@
-HelloKitty {
+.HelloKitty {
     align-items: center;
     display: flex;
+   
 }
 
 
@@ -13,21 +14,21 @@ HelloKitty {
 }
 
 
-foto {
-    box-shadow: 2px, white; /**para ponerle borde*/
+.foto {
+    margin-top: 120px;
     display: flex;
     justify-content: center;
     height: 400px;
 }
 
-nombre {
+.nombre {
     font-size: 25px;
     font-family: Georgia, Times, 'Times New Roman', serif;
     text-align: center;
 }
 
 
-descripcion {
+.descripcion {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
     display: flex;

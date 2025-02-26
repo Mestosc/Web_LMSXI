@@ -1,23 +1,39 @@
-fondo {
-    background-image: url('fondo-rosa-acuarela.avif');
+.Kuromi {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.fondo {
+    background-image: url('Imagenes\ Sanrio/fondo.jpg');   
+    height: 100vh;
+    width: 100vw;
+ 
  }
  
  
- foto {
-     box-shadow: 2px, white; /**para ponerle borde*/
+.foto {
+     box-shadow: white;
      display: flex;
      justify-content: center;
-     height: 400px;
+     height: 500px;
+
  }
  
- nombre {
+.nombre {
+    background-color: white; 
      font-size: 25px;
      font-family: Georgia, Times, 'Times New Roman', serif;
      text-align: center;
+     margin-left: 300px;
+     margin-right: 300px;
+     border-radius: 40px;
  }
  
  
- descripcion {
+ 
+.descripcion {
      font-family: Arial, Helvetica, sans-serif;
      font-size: 20px;
      display: flex;

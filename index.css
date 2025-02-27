@@ -1,0 +1,54 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    background-image: url(Imagenes/kalpli-duvar-kagidi-d080dfd8.jpg);
+    
+}
+
+.fondo{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    margin-top: 150px;
+}
+
+.tarjeta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   height: 400px;
+   width: 1000px;
+   border-radius: 20px;
+   text-align: center;
+   padding: 20px;
+
+
+ 
+}
+
+.img img {
+    width: 700px; 
+    height: auto; 
+}
+
+.nombrePersonaje {
+    color:black;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 40px;
+    
+}
+
+.descripcionPersonaje {
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    line-height: 1.9; 
+    margin-top: 10px;
+    text-align: center;
+}

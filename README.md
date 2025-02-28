@@ -7,7 +7,7 @@ La idea fue de Andrea y va de unos personajes de Sanrio de los que no se mucho, 
 
 ## Preview
 ### Pagina de menu
-A efectos practicos la principal, Oscar es el responsable
+A efectos practicos la principal, Oscar es el responsable, las X en rojo que hay en los anuncios tienen truquito
 ![Preview del menu](image.png)
 ### Ejemplo personajes
 Aqui se mostrara una pagina hecha por Andrea y otra por Fran como ejemplo del trabajo que han hecho ya que tienen todas el estilo más o menos igual entre las que hicieron

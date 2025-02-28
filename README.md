@@ -1,6 +1,6 @@
 # Proyecto de Web de LMSXI 🍮
 
-## De que va?
+## De que va? ❓
 
 La idea fue de Andrea y va de unos personajes de Sanrio de los que no se mucho, aqui expondremos un poco la reparticion de tareas y enlaces a los recursos utilizados, junto con algunas imagenes del Resultado
 
@@ -16,7 +16,7 @@ Aqui se mostrara una pagina hecha por Andrea y otra por Fran como ejemplo del tr
 #### Fran
 ![Pagina de Pompompurin](image-2.png)
 
-## Reparticion de tareas y Recursos
+## Reparticion de tareas y Recursos 📓
 Aqui se especifica más en detalle la forma en la que se reparten las tareas incluyendo que cosas le tocan a cada uno en especifico
 
 

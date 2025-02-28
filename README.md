@@ -1,3 +1,22 @@
+# Proyecto de Web de LMSXI 🍮
+
+## De que va?
+
+La idea fue de Andrea y va de unos personajes de Sanrio de los que no se mucho, aqui expondremos un poco la reparticion de tareas y enlaces a los recursos utilizados, junto con algunas imagenes del Resultado
+
+
+## Preview
+### Pagina de menu
+A efectos practicos la principal, Oscar es el responsable
+![Preview del menu](image.png)
+### Ejemplo personajes
+Aqui se mostrara una pagina hecha por Andrea y otra por Fran como ejemplo del trabajo que han hecho ya que tienen todas el estilo más o menos igual entre las que hicieron
+#### Andrea
+![Pagina de hellokitty](image-1.png)
+#### Fran
+![Pagina de Pompompurin](image-2.png)
+
+## Reparticion de tareas y Recursos
 Hello Kitty: ANDREA
 Es una gatita blanca con un lazo rojo en la oreja izquierda y sin boca,
 lo que permite que las personas proyecten sus propias emociones en ella.

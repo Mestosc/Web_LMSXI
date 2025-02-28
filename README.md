@@ -17,6 +17,9 @@ Aqui se mostrara una pagina hecha por Andrea y otra por Fran como ejemplo del tr
 ![Pagina de Pompompurin](image-2.png)
 
 ## Reparticion de tareas y Recursos
+Aqui se especifica más en detalle la forma en la que se reparten las tareas incluyendo que cosas le tocan a cada uno en especifico
+
+
 Hello Kitty: ANDREA
 Es una gatita blanca con un lazo rojo en la oreja izquierda y sin boca,
 lo que permite que las personas proyecten sus propias emociones en ella.
